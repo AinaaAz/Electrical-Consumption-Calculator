@@ -1,0 +1,40 @@
+body {
+	font-family: Calibri Bold, "Helvetica Neue", Helvetica, sans-serif;}	 
+ 
+.content h1{
+	height: 40px;
+    width: 767px;
+	background-color: lightgrey;
+    color: black;
+	text-align: center;
+	margin: 3px;
+}   
+.content {
+    border: 2px solid darkgrey;
+    width: 770px;
+    padding: 10px 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+	text-align: center;
+}
+
+#calculate {
+	font-size: 15px;
+	width: 100px;
+    padding: 5px;
+    margin: 5px 0;
+    text-align: center;
+	background-color: lightgrey;
+	border-style: outset;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#summary {
+    background-color: pink;
+    width: 770;
+    padding: 2px;
+    margin: 3px;
+    font-weight: bold;
+}
